@@ -39,6 +39,3 @@ kubectl get svc grafana -n monitoring
 - No alerting rules / Alertmanager yet
 - Next: package as a Helm chart and deploy with ArgoCD (GitOps); provision the cluster on AWS with Terraform
 
-## Screenshots
-
-See [`docs/`](docs/).
